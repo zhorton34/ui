@@ -1,4 +1,4 @@
-# 🎨 Anaconda Navigator UI
+# 🎨 UI
 
 Deploy [Navi UI (Nuxt.js)](https://nuxtjs.org) project to Vercel with zero configuration.
 
